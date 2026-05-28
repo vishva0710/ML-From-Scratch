@@ -108,6 +108,7 @@ Characteristics:
 ```text
 Machine-Learning/
 │
+|__ FINDAMENTALS_ML
 ├── Linear-Regression/
 ├── Logistic-Regression/
 ├── Decision-Tree/
@@ -126,8 +127,6 @@ Machine-Learning/
 Linear-Regression/
 │
 ├── 01_Math_Behind_LR.md
-├── 02_Working_Flow_of_LR.md
-├── 03_Overfitting_vs_Underfitting.md
 ├── 04_Project_Using_LR.ipynb
 ├── dataset
 
